@@ -8,13 +8,13 @@ site-twitter: https://twitter.com/joseramontauste #if your site has a twitter ac
 
 # Author Settings
 author: Jose Ramón Tauste # add your name
-author-img: foto_carnet.jpeg # add your photo
+author-img: foto1.jpg # add your photo
 about-author: Hola soy Jose Ramón Tauste estudiante de ciberseguridad en el instituto ies el caminás
               y publicaré en este blog mis trabajos. # add description
-social-twitter: https://twitter.com/joseramontauste # add your Twitter handle
+social-twitter: /joseramontauste # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: alutau # add your Github handle
-social-linkedin: https://www.linkedin.com/in/jose-ram%C3%B3n-tauste-candel-b9a0b2198/ # add your Linkedin handle
+social-linkedin: /jose-ram%C3%B3n-tauste-candel-b9a0b2198/ # add your Linkedin handle
 social-email: alutau561@ieselcaminas.org # add your Email address
 
 # Disqus
