@@ -1,10 +1,9 @@
 ---
 img:/ciberseguridad/ciberseguridad.jpg  # Add image post (optional)
-typora-copy-images-to: ../img/ciberseguridad/
 layout: post
 title:  "La asignatura pendiente: Ciberseguridad"
 date:   2020-12-09 
-categories: jekyll update
+
 ---
 
 ![](/img/ciberseguridad/ciberseguridad.jpg)
