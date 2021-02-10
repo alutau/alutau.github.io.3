@@ -1,5 +1,8 @@
 ---
 img:logonginx.png # Add image post (optional)
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: i-rest.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
 typora-copy-images-to: ../img/nginx/
 typora-root-url: ../
 layout: post
@@ -7,8 +10,6 @@ title:  "Nginx en docker"
 date:   2021-02-01
 categories: jekyll update
 ---
-
-## 
 
 
 
