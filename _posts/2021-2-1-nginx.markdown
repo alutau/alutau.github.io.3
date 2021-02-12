@@ -1,9 +1,9 @@
 ---
-img:logonginx.png # Add image post (optional)
+/miss-assets/img:logonginx.png # Add image post (optional)
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: i-rest.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-typora-copy-images-to: ../img/nginx/
+typora-copy-images-to: ../miss-assets/img/nginx/
 typora-root-url: ../
 layout: post
 title:  "Nginx en docker"
@@ -33,11 +33,11 @@ El siguiente comando:
 Hará que se descargue se guarde y se ejecute la imagen, por tanto sólo tienes que visitar http://localhost:8080 y a funcionar.
 ```
 
-![image-20210201160352528](/img/nginx/image-20210201160352528.png)
+/miss-assets![image-20210201160352528](/img/nginx/image-20210201160352528.png)
 
 
 
-![image-20210201160400023](/img/nginx/image-20210201160400023.png)
+![image-20210201160400023](/miss-assets/img/nginx/image-20210201160400023.png)
 
 
 
@@ -59,9 +59,9 @@ Y creamos un directorio llamado nginx y dentro de este, otro llamado site-conten
 
 
 
-![image-20210201160413711](/img/nginx/image-20210201160413711.png)
+![image-20210201160413711](/miss-assets/img/nginx/image-20210201160413711.png)
 
-![image-20210201160421947](/img/nginx/image-20210201160421947.png)
+![image-20210201160421947](/miss-assets/img/nginx/image-20210201160421947.png)
 
 
 
@@ -83,7 +83,7 @@ esto montará nuestro directorio local  `~/Documentos/nginx/site-content` localm
 
 
 
-![image-20210201160451573](/img/nginx/image-20210201160451573.png)
+![image-20210201160451573](/miss-assets/img/nginx/image-20210201160451573.png)
 
 
 
@@ -91,7 +91,7 @@ y este es el resultado:
 
 
 
-![image-20210201160503365](/img/nginx/image-20210201160503365.png)
+![image-20210201160503365](/miss-assets/img/nginx/image-20210201160503365.png)
 
 
 
@@ -108,11 +108,11 @@ Esto lo que hace es, el comando from extrae la ultima imagen de nginx a nuestra 
 
 
 
-![image-20210201160519021](/img/nginx/image-20210201160519021.png)
+![image-20210201160519021](/miss-assets/img/nginx/image-20210201160519021.png)
 
 
 
-![image-20210201160527867](/img/nginx/image-20210201160527867.png)
+![image-20210201160527867](/miss-assets/img/nginx/image-20210201160527867.png)
 
 
 
@@ -124,7 +124,7 @@ docker build -t webserver .
 
 
 
-![image-20210201160541428](/img/nginx/image-20210201160541428.png)
+![image-20210201160541428](/miss-assets/img/nginx/image-20210201160541428.png)
 
 
 
@@ -134,4 +134,4 @@ Ahora ya tenemos nuestra web en un contenedor personalizado y funcionando.
 
 
 
-![image-20210201160601522](/img/nginx/image-20210201160601522.png)
+![image-20210201160601522](/miss-assets/img/nginx/image-20210201160601522.png)

@@ -1,6 +1,6 @@
 ---
 img:logodocker.png
-typora-copy-images-to: ../img/docker/
+typora-copy-images-to: ../miss-assets/img/docker/
 typora-root-url: ../
 layout: post
 title:  "Docker"
@@ -14,11 +14,11 @@ categories: jekyll update
 
 
 
-![2](/img/docker/2.png)
+![2](/miss-assets/img/docker/2.png)
 
 Podemos comprobar que el contenedor está corriendo ejecutando `docker ps`
 
-![1.1](/img/docker/1.1.png)
+![1.1](/miss-assets/img/docker/1.1.png)
 
 
 
@@ -28,11 +28,11 @@ Una vez visitemos la página varias veces veremos que el contador de visitas aum
 
 
 
-![4](/img/docker/4.png)
+![4](/miss-assets/img/docker/4.png)
 
 
 
-![3.1](/img/docker/3.1-1612123541013.png)
+![3.1](/miss-assets/img/docker/3.1-1612123541013.png)
 
 
 
@@ -46,7 +46,7 @@ Para que persista entre reinicios en `data/container.txt`debemos:
 
 
 
-![4.1](/img/docker/4.1.png)
+![4.1](/miss-assets/img/docker/4.1.png)
 
 
 
@@ -54,7 +54,7 @@ Cuando lo ejecutamos y apuntamos nuestro navegador a http://localhost:8086/~app/
 
 
 
-![5.1](/img/docker/5.1.png)
+![5.1](/miss-assets/img/docker/5.1.png)
 
 
 
