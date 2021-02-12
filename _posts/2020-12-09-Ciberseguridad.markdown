@@ -2,7 +2,7 @@
 layout: post
 title: "La asignatura pendiente: Ciberseguridad"
 date: 2020-12-09 
-typora-copy-images-to: ../miss-assets/img/docker/
+typora-copy-images-to: ..{{site.baseurl}}/miss-assets/img/docker/
 typora-root-url: ../
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img:ciberseguridad.jpg  # Add image post (optional)
@@ -19,7 +19,7 @@ Cada día aumenta más el número de empresas que se suben al carro de la revolu
 
 Es sumamente difícil convencer a un empresario para que aumente su inversión en ciberseguridad, ya que aunque lo haga no puedes asegurarle el 100% de inmunidad ante nuevos ataques, es por eso que la asignatura pendiente siempre suele ser la ciberseguridad. 
 
-![](/miss-assets/img/ciberseguridad/ciberseguridad.jpg)
+![]({{site.baseurl}}/miss-assets/img/ciberseguridad/ciberseguridad.jpg)
 
 Toda la información tiene valor, y por lo tanto se debería de proteger.  
 
