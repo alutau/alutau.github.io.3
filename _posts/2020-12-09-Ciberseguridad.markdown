@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "La asignatura pendiente: Ciberseguridad"
-date: 2020-12-09 
+date: 2020-12-09 13:32:20 +0300
 typora-copy-images-to: ..{{site.baseurl}}/miss-assets/img/docker/
 typora-root-url: ../
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)

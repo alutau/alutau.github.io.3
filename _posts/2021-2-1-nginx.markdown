@@ -7,7 +7,7 @@ typora-copy-images-to: ../miss-assets/img/nginx/
 typora-root-url: ../
 layout: post
 title:  "Nginx en docker"
-date:   2021-02-01
+date:   2021-02-01 13:32:20 +0300
 categories: jekyll update
 ---
 
